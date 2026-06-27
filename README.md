@@ -1,19 +1,54 @@
-# 🐍 Python DSA & LeetCode Solutions
+# 🐍 Python Coding Practice
 
-Welcome to my **Python DSA & LeetCode Solutions** repository.
+Welcome to my **Python Coding Practice** repository.
 
-## 👨‍💻 About
+This repository contains my Python solutions from **LeetCode** and **HackerRank**. I use this repository to improve my problem-solving skills, strengthen Data Structures & Algorithms (DSA), and prepare for technical interviews.
 
-This repository contains my solutions to LeetCode problems solved using **Python**. I created this repository to track my coding journey, strengthen my Data Structures & Algorithms (DSA) skills, and prepare for technical interviews.
+---
+
+## 👨‍💻 Platforms
+
+* LeetCode
+* HackerRank
+
+---
 
 ## 🚀 Language
 
 * Python
 
+---
+
+## 📂 Repository Structure
+
+```text
+coding-practice-python/
+│
+├── README.md
+│
+├── LeetCode/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
+└── HackerRank/
+    ├── Easy/
+    ├── Medium/
+    └── Hard/
+```
+
+---
+
 ## 📚 Topics Covered
 
+* Basic Python
+* Input / Output
+* Variables
+* Operators
 * Arrays
 * Strings
+* Loops
+* Functions
 * Hash Maps
 * Linked Lists
 * Stacks
@@ -25,24 +60,13 @@ This repository contains my solutions to LeetCode problems solved using **Python
 * Greedy Algorithms
 * Graphs
 * Backtracking
+* Problem Solving
 
-## 📂 Repository Structure
-
-```text
-Easy/
-Medium/
-Hard/
-```
-
-## 🎯 Goals
-
-* Solve LeetCode problems consistently.
-* Improve problem-solving and logical thinking.
-* Master Data Structures & Algorithms.
-* Prepare for coding interviews.
-* Write clean, readable, and optimized Python code.
+---
 
 ## 📊 Progress
+
+### LeetCode
 
 | Difficulty | Solved |
 | ---------- | -----: |
@@ -51,15 +75,43 @@ Hard/
 | Hard       |      0 |
 | **Total**  |  **2** |
 
-## ✅ Solved Problems
+### HackerRank
+
+| Difficulty | Solved |
+| ---------- | -----: |
+| Easy       |      4 |
+| Medium     |      0 |
+| Hard       |      0 |
+| **Total**  |  **4** |
+
+---
+
+## ✅ LeetCode Problems
 
 | #    | Problem                                | Difficulty |
 | ---- | -------------------------------------- | ---------- |
 | 412  | Fizz Buzz                              | Easy       |
 | 1523 | Count Odd Numbers in an Interval Range | Easy       |
 
-## 🌟 Connect
+---
 
-If you find this repository helpful, feel free to ⭐ star the repository.
+## ✅ HackerRank Problems
 
-Happy Coding! 🚀
+* Hello World
+* Arithmetic Operators
+* Division (Integer & Float)
+* Print Function
+
+---
+
+## 🎯 Goals
+
+* Solve coding problems consistently.
+* Improve logical thinking and problem-solving skills.
+* Master Data Structures & Algorithms.
+* Prepare for coding interviews.
+* Write clean, readable, and optimized Python code.
+
+---
+
+⭐ Thank you for visiting my repository. Happy Coding! 🚀
