@@ -2,7 +2,7 @@
 
 Welcome to my **Python Coding Practice** repository.
 
-This repository contains my Python solutions from **LeetCode** and **HackerRank**. I use this repository to improve my problem-solving skills, strengthen Data Structures & Algorithms (DSA), and prepare for technical interviews.
+This repository contains my Python solutions from **LeetCode** and **HackerRank**. I use this repository to improve my problem-solving skills, strengthen **Data Structures & Algorithms (DSA)**, and prepare for technical interviews.
 
 ---
 
@@ -70,10 +70,10 @@ coding-practice-python/
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy       |      2 |
+| Easy       |      3 |
 | Medium     |      0 |
 | Hard       |      0 |
-| **Total**  |  **2** |
+| **Total**  |  **3** |
 
 ### HackerRank
 
@@ -84,6 +84,14 @@ coding-practice-python/
 | Hard       |      0 |
 | **Total**  |  **4** |
 
+### Overall Progress
+
+| Platform   | Problems Solved |
+| ---------- | --------------: |
+| LeetCode   |               3 |
+| HackerRank |               4 |
+| **Total**  |           **7** |
+
 ---
 
 ## ✅ LeetCode Problems
@@ -92,6 +100,7 @@ coding-practice-python/
 | ---- | -------------------------------------- | ---------- |
 | 412  | Fizz Buzz                              | Easy       |
 | 1523 | Count Odd Numbers in an Interval Range | Easy       |
+| 1929 | Concatenation of Array                 | Easy       |
 
 ---
 
